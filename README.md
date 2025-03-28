@@ -31,7 +31,7 @@
 
 ## Tools
 
-<img src= Documentation/react.svg  height="90" width="100"><img src= Documentation/typescript.svg height="90" width="100"><img src= Documentation/nextjs.png  height="90" width="100"><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90">
+<img src= Documentation/react.png  height="90" width="100"><img src= Documentation/typescript.svg height="90" width="100"><img src= Documentation/nextjs.png  height="90" width="100"><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90">
 
 <!--
 ## Management Tools
