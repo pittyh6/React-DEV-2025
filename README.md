@@ -17,11 +17,10 @@
 
 ## Project + Result
 
+- Gym Website [link](https://github.com/pittyh6/2-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-22_NPM-1_NPM_Crash_Course)
 <!--
-* (NPM 1) - NPM Crash Course [link](https://github.com/pittyh6/2-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-22_NPM-1_NPM_Crash_Course)
-
-* (JQuery 1) - JQuery Crash Course (Selectors) [link](https://github.com/pittyh6/2-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-35_JQuery-1_jQuery_Crash_Course_1-Intro_%26_Selectors)
--->
+- (JQuery 1) - JQuery Crash Course (Selectors) [link](https://github.com/pittyh6/2-12Mths-WebDevelopmentStudy-2022-2023/tree/master/WDS-35_JQuery-1_jQuery_Crash_Course_1-Intro_%26_Selectors)
+  -->
 
 ## Previous Project
 
